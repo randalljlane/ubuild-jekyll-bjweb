@@ -11,7 +11,8 @@ page_sections:
     link: "#"
   - link_text: two
     link: "#"
-  - {}
+  - link_text: three
+    link: "#"
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
