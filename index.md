@@ -9,7 +9,8 @@ page_sections:
   navigation:
   - link_text: one
     link: "#"
-  - {}
+  - link_text: two
+    link: "#"
   - {}
 - template: hero-banner-w-image
   block: hero-2
