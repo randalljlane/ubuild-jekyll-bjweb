@@ -6,6 +6,13 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2019/01/10/logo.png"
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2019/01/10/logo-1.png"
+  navigation:
+  - {}
+  - {}
+  - {}
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
