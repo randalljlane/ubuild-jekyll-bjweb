@@ -7,7 +7,8 @@ page_sections:
   block: header-1
   logo: "/uploads/2019/01/10/logo-1.png"
   navigation:
-  - {}
+  - link_text: one
+    link: "#"
   - {}
   - {}
 - template: hero-banner-w-image
