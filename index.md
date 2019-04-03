@@ -3,16 +3,9 @@ layout: blocks
 title: Brown & Jackson Projects
 date: ''
 page_sections:
-- template: navigation-header
-  block: header-1
-  logo: "/uploads/2019/01/10/logo-1.png"
-  navigation:
-  - link_text: one
-    link: "#"
-  - link_text: two
-    link: "#"
-  - link_text: three
-    link: "#"
+- template: simple-header
+  block: header-3
+  logo: "/uploads/bjLogo.png"
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
